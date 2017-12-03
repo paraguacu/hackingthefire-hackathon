@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Fire Call</string>
+    <string name="host">http://172.10.100.78:5000</string>
+
+    <string name="label_ocorrencias">Ocorrências</string>
+    <string name="label_start">Iniciar Recurso</string>
+    <string name="label_desativar">Desativar Recurso</string>
+</resources>
