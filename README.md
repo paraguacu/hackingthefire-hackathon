@@ -6,6 +6,8 @@ Projeto feito durante o Hackathon realizado pela Zup.
 
 * O projeto ainda não finalizado e continuara com revisões e produção, este conta do os seguintes módulos:
 
-TheFireCall - Aplicação mobile, feita em Android nativo
-Back-End - Aplicação servidor, feita em Python https://github.com/sudoFerraz/hackaton-zup
-Front - Feito com Angular (Precisa atualizar esse info)
+TheFireCall - Aplicação mobile, feita em Android nativo.
+
+Back-End - Aplicação servidor, feita em Python: https://github.com/sudoFerraz/hackaton-zup.
+
+Front - Feito com Angular (Precisa atualizar esse info).
